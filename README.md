@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tari-Star
+- 👋 Hi, I’m @Tari
 - 👀 I’m interested in programming and cyber security
 - 🌱 I’m currently learning networking, windows and linux security, and python
 
